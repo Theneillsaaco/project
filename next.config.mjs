@@ -9,8 +9,8 @@ const nextConfig = {
     unoptimized: true,
   },
   
-  basePath: "/proyecto-final-Theneillsaaco",
-  assetPrefix: "/proyecto-final-Theneillsaaco"
+  basePath: "/project",
+  assetPrefix: "/project"
 };
 
 export default nextConfig;
