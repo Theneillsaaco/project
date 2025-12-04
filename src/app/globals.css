@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-neutral-900 text-neutral-100;
+}
+
+.card-md3 {
+  @apply rounded-xl p-4 shadow-md bg-neutral-900 border border-neutral-800;
+}
